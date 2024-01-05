@@ -6,7 +6,7 @@ ESTIAM 3
 
 Pour commencer nous faisons un schéma permettant d'avoir une idée du travail à réaliser.
 
-![Alt text](<schemaAWS.jpg>)
+![Alt text](<schemaAWS.png>)
 
 # Création de VPCs
 
